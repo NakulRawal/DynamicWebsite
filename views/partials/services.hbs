@@ -1,0 +1,28 @@
+<section id="services_section" class="py-4 background2">
+
+  <div class="container">
+    <h1 class="text-center text-secondary">Services that we provide</h1>
+
+    <div class="row mt-5">
+      {{! first service coloumn }}
+      {{#each services}}
+        <div class="col-md-4">
+          <div class="card">
+            <div class="card-body">
+              <div class="container text-center py-3">
+                <i class="{{this.icon}} service_icon"></i>
+              </div>
+              <h5 class="card-title">{{this.title}} </h5>
+              <p>{{this.description}}</p>
+              <a href="{{this.link}}">{{this.linkText}}</a>
+              <a
+                href="https://colorlib.com/etc/404/colorlib-error-404-3/"
+              >Support</a>
+            </div>
+          </div>
+        </div>
+      {{/each}}
+
+    </div>
+  </div>
+</section>

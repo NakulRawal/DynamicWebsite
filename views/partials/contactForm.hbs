@@ -1,0 +1,68 @@
+<section id="contact_us_section" class="py-5 background2">
+  <div class="container">
+    <h1 class="text-center text-secondary">Contact us</h1>
+    <div class="row">
+      <div class="col-md-12">
+
+        <form
+          class="row g-3 needs-validation"
+          novalidate
+          action="/process-contact-form"
+          method="post"
+        >
+          <div class="mb-3">
+            <label for="exampleFormControlInput1" class="form-label">Your email</label>
+            <input
+              name="email"
+              type="email"
+              class="form-control"
+              id="exampleFormControlInput1"
+              placeholder="name@example.com"
+              required
+            />
+            <div id="emailhelper" class="form-text">We'll never share your email
+              with anyone else</div>
+            <div class="valid-feedback text-dark">
+              Looks good!
+            </div>
+          </div>
+
+          <div class="mb-3">
+            <label for="contactNumberField" class="form-label">Your contact
+              number</label>
+            <input
+              name="phone"
+              type="number"
+              class="form-control"
+              id="contactNumberField"
+              required
+            />
+            <div class="valid-feedback text-dark">
+              Looks good!
+            </div>
+
+          </div>
+
+          <div class="my-3 from-floating">
+            <label for="queryFiled" class="form-label"></label>
+            <textarea
+              name="query"
+              class="form-control"
+              id="queryFiled"
+              rows="10"
+              placeholder="Enter your query here"
+              required
+            ></textarea>
+            <div class="valid-feedback text-dark">
+              Looks good!
+            </div>
+          </div>
+          <div class="container text-center">
+            <button type="submit" class="btn btn-dark">Submit</button>
+          </div>
+        </form>
+
+      </div>
+    </div>
+  </div>
+</section>
