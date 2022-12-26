@@ -1,5 +1,5 @@
+# Dynamic Website
 
- # Dynamic Website
 1st project:
 Simple company responsive Website
 
@@ -7,6 +7,7 @@ here you can view services section which it is providing.
 as you submit your query it will be saved in my database which i can view.and respond you back on provided email address.
 
 # YelpCamp
+
 2nd project:
 it is a private repository
 
@@ -14,19 +15,25 @@ This is campgrounds website ,Where you can create new campground edit it see loc
 for all this things you need to registe and login to perform mentioned operations.
 
 although you can view campgrounds without login or registe but you can't create review or perform other operations
+
 ## Explore my website:
+
 1st project: https://dynamicwebsite.onrender.com/
 
 2nd project: https://wildness.onrender.com/
-## 🛠 Skills
-1st project: Javascript, HTML, CSS, Bootstrap5 , Node.js , mongoDB , Express.js,
-mongoose, handlebars,MVC
 
-2nd project: Javascript,HTML,CSS,Bootstrap5,Node.js,Express,mongoDB,mongoose,ejs
-mapbox, passport, with all other things like 
+## 🛠 Skills
+
+1st project: Javascript, HTML, CSS, Bootstrap5 , Node.js , mongoDB , Express.js,
+mongoose, handlebars
+
+2nd project: Javascript,HTML,CSS,Bootstrap5,Node.js,Express,mongoDB,mongoose,ejs,MVC
+mapbox, passport, with all other things like
 CURD operation,Authentication,Authorization,error handling,preventing cross site scripting,
-preventing unkown URL,session,session-cookies,flash-message,validation 
+preventing unkown URL,session,session-cookies,flash-message,validation
+
 ## Screenshots
+
 1st project:
 ![App Screenshot](https://user-images.githubusercontent.com/110049636/209510099-9f4f5ea9-6a35-4922-b9f7-dde1ef9974f1.png)
 
@@ -36,8 +43,7 @@ preventing unkown URL,session,session-cookies,flash-message,validation
 2nd project:
 
 Home page:
-![App Screenshot](https://user-images.githubusercontent.com/110049636/209513613-abf36b58-f886-4692-a514-f228474b2c27.png
-)
+![App Screenshot](https://user-images.githubusercontent.com/110049636/209513613-abf36b58-f886-4692-a514-f228474b2c27.png)
 
 Login page:
 ![App Screenshot](https://user-images.githubusercontent.com/110049636/209513618-4d40dad3-8851-4b52-b049-eccc21ae60e4.png)
@@ -59,7 +65,3 @@ Create Page:
 
 Edit page:
 ![App Screenshot](https://user-images.githubusercontent.com/110049636/209513610-60aa9b4a-02f0-4123-b6c2-9ea91d0ca3a2.png)
-
-
-
-
