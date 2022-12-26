@@ -27,7 +27,7 @@ although you can view campgrounds without login or registe but you can't create 
 1st project: Javascript, HTML, CSS, Bootstrap5 , Node.js , mongoDB , Express.js,
 mongoose, handlebars
 
-2nd project: Javascript,HTML,CSS,Bootstrap5,Node.js,Express,mongoDB,mongoose,ejs,MVC
+2nd project: Javascript,HTML,CSS,Bootstrap5,Node.js,Express,mongoDB,mongoose,ejs,MVC,
 mapbox, passport, with all other things like
 CURD operation,Authentication,Authorization,error handling,preventing cross site scripting,
 preventing unkown URL,session,session-cookies,flash-message,validation
